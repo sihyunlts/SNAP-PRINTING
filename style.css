@@ -155,3 +155,13 @@ iframe {
   display: inline;
   border-radius: 12px;
 }
+
+h3 {
+  margin: 0px 0px 0px 4px;
+}
+
+#map {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
