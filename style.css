@@ -171,3 +171,7 @@ h3 {
   flex-direction: column;
   gap: 20px;
 }
+
+#map p {
+  text-align: center;
+}
